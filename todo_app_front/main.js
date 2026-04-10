@@ -1,5 +1,5 @@
 // const API_URL = 'http://127.0.0.1:5000/tasks';
-const API_URL = 'http://43.207.118.54/api/tasks';
+const API_URL = 'http://54.250.237.136/api/tasks';
 
 
 // タスク一覧を表示
